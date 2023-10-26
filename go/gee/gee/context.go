@@ -8,6 +8,16 @@ import (
 
 type H map[string]interface{}
 
+func newContext(w http.ResponseWriter, req *http.Request) *Context {
+	return &Context{
+		Writer: w,
+		Req:    req,
+		Path:   req.URL.Path,
+		Method: req.Method,
+		index:  -1,
+	}
+}
+
 type Context struct {
 	Writer     http.ResponseWriter
 	Req        *http.Request
@@ -30,16 +40,6 @@ func (c *Context) Next() {
 	s := len(c.handlers)
 	for ; c.index < s; c.index++ {
 		c.handlers[c.index](c)
-	}
-}
-
-func newContext(w http.ResponseWriter, req *http.Request) *Context {
-	return &Context{
-		Writer: w,
-		Req:    req,
-		Path:   req.URL.Path,
-		Method: req.Method,
-		index:  -1,
 	}
 }
 

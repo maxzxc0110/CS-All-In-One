@@ -26,15 +26,17 @@ type RouterGroup struct {
 }
 
 func New() *Engine {
-	//return &Engine{
-	//	router: newRouter()
-	//}
-
 	engine := &Engine{router: newRouter()}
 	engine.RouterGroup = &RouterGroup{engine: engine}
 	engine.groups = []*RouterGroup{engine.RouterGroup}
 	return engine
 
+}
+
+func Default() *Engine {
+	engine := New()
+	engine.Use(Logger(), Recovery())
+	return engine
 }
 
 func (group *RouterGroup) Group(prefix string) *RouterGroup {
