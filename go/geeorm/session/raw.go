@@ -2,6 +2,7 @@ package session
 
 import (
 	"database/sql"
+	"geeorm/clause"
 	"geeorm/dialect"
 	"geeorm/log"
 	"geeorm/schema"
@@ -14,6 +15,8 @@ type Session struct {
 	sqlVars  []interface{}
 	dialect  dialect.Dialect
 	refTable *schema.Schema
+	clause   clause.Clause
+	tx       *sql.Tx
 }
 
 func New(db *sql.DB, dialect dialect.Dialect) *Session {
@@ -23,9 +26,27 @@ func New(db *sql.DB, dialect dialect.Dialect) *Session {
 	}
 }
 
+type CommonDB interface {
+	Query(query string, args ...interface{}) (*sql.Rows, error)
+	QueryRow(query string, args ...interface{}) *sql.Row
+	Exec(query string, args ...interface{}) (sql.Result, error)
+}
+
+var _ CommonDB = (*sql.DB)(nil)
+var _ CommonDB = (*sql.Tx)(nil)
+
+// DB returns tx if a tx begins. otherwise return *sql.DB
+func (s *Session) DB() CommonDB {
+	if s.tx != nil {
+		return s.tx
+	}
+	return s.db
+}
+
 func (s *Session) Clear() {
 	s.sql.Reset()
 	s.sqlVars = nil
+	s.clause = clause.Clause{}
 }
 
 func (s *Session) DB() *sql.DB {
