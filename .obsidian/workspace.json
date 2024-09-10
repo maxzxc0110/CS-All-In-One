@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "f4708ec986a2ed0d",
+    "id": "b57ce6d243d69042",
     "type": "split",
     "children": [
       {
-        "id": "b17660912b8cbd2d",
+        "id": "3cfba99a454c2845",
         "type": "tabs",
         "children": [
           {
-            "id": "c24b69baaabb437a",
+            "id": "1a540eee5dd760d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词总动员.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f45b591b3bce962",
+    "id": "bf16dd6d5074d7be",
     "type": "split",
     "children": [
       {
-        "id": "f53d3e08616c9b84",
+        "id": "79a56eac0d83cced",
         "type": "tabs",
         "children": [
           {
-            "id": "9c68758d21ae9612",
+            "id": "dcc4ef49fea92fe6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "88675d7f0b1db5fb",
+            "id": "b998931241ab2966",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "6cfe3704a4909350",
+            "id": "5abc1bd71523ee0c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "070f7e76e2fc3579",
+    "id": "85951f979305114c",
     "type": "split",
     "children": [
       {
-        "id": "531ee7ecfbd62c3a",
+        "id": "2954e437a5c88b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b977dc26d0a62d",
+            "id": "d5822fa8abbc106e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动词总动员.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "72dba39e23e8b023",
+            "id": "41dc3d29ff2141ea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动词总动员.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2550d95294d50418",
+            "id": "2d4ec5aa490d62c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,19 @@
             }
           },
           {
-            "id": "53ab0de16b960935",
+            "id": "b98750f75429c873",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "动词总动员.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,20 +138,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c24b69baaabb437a",
-  "lastOpenFiles": [
-    "动词总动员.md",
-    "动词的ます型活用表.md",
-    "格助词.md",
-    "img/Pasted image 20240910180745.png",
-    "img/Pasted image 20240910223328.png",
-    "img",
-    "test.xlsx",
-    "三大运动定律.md",
-    "惯性定律.md",
-    "第一章/艾萨克·牛顿.md",
-    "第一章",
-    "欢迎.md",
-    "创建链接.md"
-  ]
+  "active": "1a540eee5dd760d0",
+  "lastOpenFiles": []
 }
