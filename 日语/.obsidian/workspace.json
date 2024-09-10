@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "f4708ec986a2ed0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6530e6c663e36ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f01e82e945ef23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c423c35eefa19eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动词的ます型活用表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f45b591b3bce962",
+    "type": "split",
+    "children": [
+      {
+        "id": "f53d3e08616c9b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c68758d21ae9612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88675d7f0b1db5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cfe3704a4909350",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "070f7e76e2fc3579",
+    "type": "split",
+    "children": [
+      {
+        "id": "531ee7ecfbd62c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b977dc26d0a62d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "动词的ます型活用表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72dba39e23e8b023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "动词的ます型活用表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2550d95294d50418",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53ab0de16b960935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "动词的ます型活用表.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3c423c35eefa19eb",
+  "lastOpenFiles": [
+    "test.xlsx",
+    "Pasted image 20240910180745.png",
+    "动词的ます型活用表.md",
+    "三大运动定律.md",
+    "惯性定律.md",
+    "第一章/艾萨克·牛顿.md",
+    "第一章",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}
