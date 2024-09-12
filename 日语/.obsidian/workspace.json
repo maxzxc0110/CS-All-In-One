@@ -13,8 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动词总动员.md",
+                "file": "格助词.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "476a859ac3aa84a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动词的ます型.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,9 +99,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动词总动员.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "格助词.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动词总动员.md",
+                "file": "格助词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动词总动员.md"
+                "file": "格助词.md"
               }
             }
           }
@@ -133,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +162,24 @@
   },
   "active": "c24b69baaabb437a",
   "lastOpenFiles": [
-    "动词总动员.md",
-    "动词的ます型活用表.md",
+    "动词.md",
+    "一类形容词.md",
+    "形容词.md",
     "格助词.md",
-    "img/Pasted image 20240910180745.png",
-    "img/Pasted image 20240910223328.png",
+    "二类形容词.md",
+    "动词总动员.md",
+    "动词的ます型.md",
+    "动词的て型.md",
+    "img/Pasted image 20240912163504.png",
+    "img/Pasted image 20240912142817.png",
+    "img/Pasted image 20240912142805.png",
+    "img/Pasted image 20240912142802.png",
+    "Pasted image 20240912142817.png",
+    "Pasted image 20240912142805.png",
+    "Pasted image 20240912142802.png",
+    "img/Pasted image 20240912134639.png",
+    "img/Pasted image 20240912134621.png",
+    "img/Pasted image 20240912135554.png",
     "img",
     "test.xlsx",
     "三大运动定律.md",
