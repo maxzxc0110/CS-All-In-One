@@ -179,16 +179,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "476a859ac3aa84a2",
   "lastOpenFiles": [
+    "img/Pasted image 20241009075825.png",
     "img/Pasted image 20241007090129.png",
     "动词的た型.md",
     "动词、形容词、名词的4种基本形式.md",
@@ -213,7 +214,6 @@
     "一类形容词.md",
     "img/Pasted image 20240916101920.png",
     "形容词.md",
-    "img/Pasted image 20240915095543.png",
     "img",
     "test.xlsx",
     "三大运动定律.md",
