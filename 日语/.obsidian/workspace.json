@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日语小火车理论.md",
+                "file": "动词总动员.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日语小火车理论.md",
+                "file": "动词总动员.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日语小火车理论.md",
+                "file": "动词总动员.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日语小火车理论.md"
+                "file": "动词总动员.md"
               }
             }
           }
@@ -179,32 +179,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "476a859ac3aa84a2",
   "lastOpenFiles": [
-    "img/Pasted image 20241009075825.png",
-    "img/Pasted image 20241007090129.png",
     "动词的た型.md",
-    "动词、形容词、名词的4种基本形式.md",
-    "长得像二类动词的一类动词（奸细）.md",
-    "动词的ない型.md",
-    "动词的ます型.md",
-    "img/Pasted image 20240928123435.png",
-    "二类形容词.md",
     "动词总动员.md",
     "动词的て型.md",
-    "日语小火车理论.md",
+    "动词的ない型.md",
+    "动词、形容词、名词的4种基本形式.md",
+    "动词的ます型.md",
     "动词.md",
+    "日语小火车理论.md",
+    "格助词.md",
+    "二类形容词.md",
+    "img/Pasted image 20241009075825.png",
+    "img/Pasted image 20241007090129.png",
+    "长得像二类动词的一类动词（奸细）.md",
+    "img/Pasted image 20240928123435.png",
     "img/Pasted image 20240925204859.png",
     "img/Pasted image 20240925204802.png",
-    "格助词.md",
     "img/Pasted image 20240923073957.png",
     "img/Pasted image 20240923070541.png",
     "img/Pasted image 20240923070536.png",
@@ -212,7 +212,6 @@
     "img/Pasted image 20240918205147.png",
     "img/Pasted image 20240918205131.png",
     "一类形容词.md",
-    "img/Pasted image 20240916101920.png",
     "形容词.md",
     "img",
     "test.xlsx",
