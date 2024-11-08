@@ -4,206 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b17660912b8cbd2d",
+        "id": "374724a389ea555a",
         "type": "tabs",
         "children": [
           {
-            "id": "c24b69baaabb437a",
+            "id": "a43a91de618870cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "二类形容词.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "二类形容词"
-            }
-          },
-          {
-            "id": "21aad2043881b428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日语小火车理论.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "日语小火车理论"
-            }
-          },
-          {
-            "id": "af7ff97dc6e23b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词总动员.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词总动员"
-            }
-          },
-          {
-            "id": "476a859ac3aa84a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词"
-            }
-          },
-          {
-            "id": "ded476b80b7b1476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词、形容词、名词的4种基本形式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词、形容词、名词的4种基本形式"
-            }
-          },
-          {
-            "id": "7443dd3c462a2dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词"
-            }
-          },
-          {
-            "id": "a84d12904eec8a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词、形容词、名词的4种基本形式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词、形容词、名词的4种基本形式"
-            }
-          },
-          {
-            "id": "d3135b9e286b987b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "授受动词.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "授受动词"
-            }
-          },
-          {
-            "id": "b3e907978ec206eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "格助词.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "格助词"
-            }
-          },
-          {
-            "id": "3310db0ee2b6b8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "たら.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "たら"
-            }
-          },
-          {
-            "id": "fa29bb86efc1f47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词总动员.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词总动员"
-            }
-          },
-          {
-            "id": "a8c4f52bca6988e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词的可能型.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词的可能型"
-            }
-          },
-          {
-            "id": "3005a950e08ed69f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "动词的可能型.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "动词的可能型"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -336,54 +150,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "3005a950e08ed69f",
+  "active": "a43a91de618870cb",
   "lastOpenFiles": [
+    "授受动词.md",
+    "动词总动员.md",
+    "たら.md",
+    "格助词.md",
+    "动词、形容词、名词的4种基本形式.md",
+    "动词.md",
+    "长得像二类动词的一类动词（奸细）.md",
+    "动词的使役形.md",
+    "动词的ます形.md",
+    "动词的ば形.md",
+    "动词的ない形.md",
+    "动词的て形.md",
+    "动词的た形.md",
+    "动词的意志形.md",
+    "动词的受身形.md",
+    "动词的可能形.md",
+    "img/25f661a4e9c8888c2c22871089fa718.jpg",
+    "img/2be6a1cbefba737a89d7a83acfbcab2.jpg",
+    "img/be06344b4bd0be8abdb3699b9292a4d.jpg",
+    "img/357c5b11f3dc4d1eaae8ecbe2862060.jpg",
+    "img/35964dd86a030ad974a89db6b90208f.jpg",
+    "img/c2a45798fdb48e47cf60d3e16ce688c.jpg",
+    "img/3f376c4359365e0a3a8a25eb155b506.jpg",
+    "img/b381dbd51c081491c3910d875db01d9.jpg",
     "ように和ために.md",
     "img/Pasted image 20241105232418.png",
     "img/Pasted image 20241105232416.png",
-    "img/Pasted image 20241105232329.png",
-    "动词的可能型.md",
-    "img/Pasted image 20241105224855.png",
-    "动词总动员.md",
-    "动词的ば型.md",
     "未命名.canvas",
-    "动词的て型.md",
-    "动词的た型.md",
-    "动词的ます型.md",
     "と 、たら、 ば、 なら.md",
-    "img/42790375ea44d65b75a18e9a2ab2f25.jpg",
-    "img/adb1a354cad4217699c41df7a839fbb.jpg",
-    "img/d9f827a45de018cddfd09d692233065.jpg",
-    "たら.md",
-    "动词.md",
-    "img/225859e2c313acb627ce920717c9255.jpg",
-    "格助词.md",
-    "img/Pasted image 20241104215612.png",
-    "img/Pasted image 20241102200639.png",
-    "授受动词.md",
-    "动词、形容词、名词的4种基本形式.md",
-    "动词的意志型.md",
     "日语小火车理论.md",
     "自动词和他动词.md",
     "そうです.md",
-    "长得像二类动词的一类动词（奸细）.md",
     "一类形容词.md",
     "二类形容词.md",
     "形容词.md",
-    "动词的ない型.md",
     "img",
     "test.xlsx",
     "三大运动定律.md",
-    "惯性定律.md",
-    "第一章/艾萨克·牛顿.md",
     "第一章"
   ]
 }
