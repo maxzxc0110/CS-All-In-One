@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f4708ec986a2ed0d",
+    "id": "28a47d5a47798bf4",
     "type": "split",
     "children": [
       {
-        "id": "1f348b9ce0531eee",
+        "id": "05bcd7c73cee0280",
         "type": "tabs",
         "children": [
           {
-            "id": "e38784f45f2e8613",
+            "id": "6d27bad2f7282cc7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f45b591b3bce962",
+    "id": "e14ed38600bb07fe",
     "type": "split",
     "children": [
       {
-        "id": "f53d3e08616c9b84",
+        "id": "2d8e00a99f45aa21",
         "type": "tabs",
         "children": [
           {
-            "id": "9c68758d21ae9612",
+            "id": "7755f32f331b2a33",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "88675d7f0b1db5fb",
+            "id": "786e7d7f44537b3f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,17 +56,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "6cfe3704a4909350",
+            "id": "08813f1c5b2116d8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -76,22 +76,21 @@
     "width": 300
   },
   "right": {
-    "id": "070f7e76e2fc3579",
+    "id": "d8f590b2751fe1a7",
     "type": "split",
     "children": [
       {
-        "id": "531ee7ecfbd62c3a",
+        "id": "14d5ce89bb6d0735",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b977dc26d0a62d",
+            "id": "d6c485739a527ea4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动词的た型.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -99,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 动词的た型"
+              "title": "反向链接"
             }
           },
           {
-            "id": "72dba39e23e8b023",
+            "id": "5def83f5d056d1f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动词的た型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 动词的た型"
+              "title": "出链"
             }
           },
           {
-            "id": "2550d95294d50418",
+            "id": "08ac1567e5db1437",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,19 +124,17 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "53ab0de16b960935",
+            "id": "b31bf05116c55495",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "动词的た型.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 动词的た型"
+              "title": "大纲"
             }
           }
         ]
@@ -158,46 +154,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e38784f45f2e8613",
+  "active": "6d27bad2f7282cc7",
   "lastOpenFiles": [
-    "敬语.md",
-    "img/Pasted image 20241111215745.png",
-    "img/Pasted image 20241111215720.png",
-    "img/Pasted image 20241111215639.png",
-    "img/Pasted image 20241111215611.png",
-    "img/Pasted image 20241111215528.png",
-    "img/Pasted image 20241111215451.png",
-    "img/Pasted image 20241111215417.png",
-    "img/Pasted image 20241111215353.png",
-    "img/Pasted image 20241111215334.png",
-    "img/Pasted image 20241111215311.png",
-    "动词的使役形.md",
-    "关于判断的表达.md",
-    "动词.md",
-    "长得像二类动词的一类动词（奸细）.md",
-    "授受动词.md",
-    "动词总动员.md",
-    "たら.md",
-    "格助词.md",
-    "动词、形容词、名词的4种基本形式.md",
-    "动词的ます形.md",
-    "动词的ば形.md",
-    "动词的ない形.md",
-    "动词的て形.md",
-    "动词的た形.md",
-    "动词的意志形.md",
-    "动词的受身形.md",
-    "动词的可能形.md",
-    "ように和ために.md",
-    "未命名.canvas",
-    "と 、たら、 ば、 なら.md",
-    "日语小火车理论.md",
-    "自动词和他动词.md",
-    "そうです.md",
-    "一类形容词.md",
-    "二类形容词.md",
-    "img",
-    "test.xlsx",
-    "第一章"
+    "欢迎.md"
   ]
 }
